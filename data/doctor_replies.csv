@@ -1,0 +1,65 @@
+﻿reply_id,situation,english,hindi,odia
+R001,General,"Hello, how can I help you?","नमस्ते, मैं आपकी कैसे मदद कर सकता हूँ?","ନମସ୍କାର, ମୁଁ ଆପଣଙ୍କୁ କିପରି ସାହାଯ୍ୟ କରିପାରିବି?"
+R002,General,Please tell me what happened.,कृपया मुझे बताइए क्या हुआ।,ଦୟାକରି ମୋତେ କୁହନ୍ତୁ କଣ ହେଲା।
+R003,General,Please wait here.,कृपया यहाँ प्रतीक्षा करें।,ଦୟାକରି ଏଠାରେ ଅପେକ୍ଷା କରନ୍ତୁ।
+R004,General,Please stay calm.,कृपया शांत रहें।,ଦୟାକରି ଶାନ୍ତ ରୁହନ୍ତୁ।
+R005,General,I understand.,मैं समझ गया हूँ।,ମୁଁ ବୁଝିପାରୁଛି।
+R006,Fever,I will check your temperature.,मैं आपका तापमान जाँचूँगा।,ମୁଁ ଆପଣଙ୍କ ତାପମାତ୍ରା ଯାଞ୍ଚ କରିବି।
+R007,Headache,Where exactly does your head hurt?,आपके सिर में ठीक कहाँ दर्द हो रहा है?,ଆପଣଙ୍କ ମୁଣ୍ଡର କେଉଁଠି ବ୍ୟଥା ହେଉଛି?
+R008,Cough,How long have you been coughing?,आपको कितने समय से खाँसी हो रही है?,ଆପଣଙ୍କୁ କେତେ ଦିନ ହେଲା କାଶ ହେଉଛି?
+R009,Dizziness,Please sit down and rest.,कृपया बैठकर आराम करें।,ଦୟାକରି ବସି ଆରାମ କରନ୍ତୁ।
+R010,Cold,I will check your symptoms.,मैं आपके लक्षणों की जाँच करूँगा।,ମୁଁ ଆପଣଙ୍କ ଲକ୍ଷଣଗୁଡ଼ିକ ଯାଞ୍ଚ କରିବି।
+R011,Shivering,Please sit down and keep yourself warm.,कृपया बैठें और अपने शरीर को गर्म रखें।,ଦୟାକରି ବସନ୍ତୁ ଏବଂ ନିଜ ଶରୀରକୁ ଗରମ ରଖନ୍ତୁ।
+R012,Weakness,Please sit and rest.,कृपया बैठकर आराम करें।,ଦୟାକରି ବସି ଆରାମ କରନ୍ତୁ।
+R013,Tired,Please take some rest.,कृपया थोड़ा आराम करें।,ଦୟାକରି ଟିକେ ଆରାମ କରନ୍ତୁ।
+R014,Very sick,I will examine you now.,मैं अभी आपकी जाँच करूँगा।,ମୁଁ ବର୍ତ୍ତମାନ ଆପଣଙ୍କୁ ପରୀକ୍ଷା କରିବି।
+R015,Pain,Please show me where it hurts.,जहाँ दर्द हो रहा है वहाँ मुझे दिखाइए।,ଯେଉଁଠି ବ୍ୟଥା ହେଉଛି ମୋତେ ଦେଖାନ୍ତୁ।
+R016,Severe pain,How severe is the pain?,दर्द कितना तेज है?,ବ୍ୟଥା କେତେ ତୀବ୍ର?
+R017,Constant pain,Is the pain constant?,क्या दर्द लगातार हो रहा है?,ବ୍ୟଥା କଣ ଲଗାତାର ହେଉଛି?
+R018,Pain comes and goes,Does the pain come and go?,क्या दर्द आता-जाता रहता है?,ବ୍ୟଥା କଣ ଆସୁଛି ଓ ଯାଉଛି?
+R019,Body pain,Please tell me where your body hurts.,कृपया बताइए आपके शरीर में कहाँ दर्द है।,ଆପଣଙ୍କ ଶରୀରର କେଉଁଠି ବ୍ୟଥା ହେଉଛି କୁହନ୍ତୁ।
+R020,Chest pain,I will examine your chest.,मैं आपकी छाती की जाँच करूँगा।,ମୁଁ ଆପଣଙ୍କ ଛାତି ଯାଞ୍ଚ କରିବି।
+R021,Vomiting,How many times have you vomited?,आपको कितनी बार उल्टी हुई है?,ଆପଣଙ୍କୁ କେତେଥର ବାନ୍ତି ହୋଇଛି?
+R022,Diarrhea,How many times have you had diarrhea?,आपको कितनी बार दस्त हुए हैं?,ଆପଣଙ୍କୁ କେତେଥର ଝାଡ଼ା ହୋଇଛି?
+R023,Sore throat,Please open your mouth. I will check your throat.,कृपया अपना मुँह खोलिए। मैं आपका गला जाँचूँगा।,ଦୟାକରି ଆପଣଙ୍କ ପାଟି ଖୋଲନ୍ତୁ। ମୁଁ ଆପଣଙ୍କ ଗଳା ଯାଞ୍ଚ କରିବି।
+R024,Runny nose,I will check your nose.,मैं आपकी नाक की जाँच करूँगा।,ମୁଁ ଆପଣଙ୍କ ନାକ ଯାଞ୍ଚ କରିବି।
+R025,Breathing difficulty,Please sit down. I will check your breathing.,कृपया बैठिए। मैं आपकी साँस की जाँच करूँगा।,ଦୟାକରି ବସନ୍ତୁ। ମୁଁ ଆପଣଙ୍କ ନିଶ୍ୱାସ ଯାଞ୍ଚ କରିବି।
+R026,Cannot breathe,Stay calm. I will help you immediately.,शांत रहें। मैं तुरंत आपकी मदद करूँगा।,ଶାନ୍ତ ରୁହନ୍ତୁ। ମୁଁ ତୁରନ୍ତ ଆପଣଙ୍କୁ ସାହାଯ୍ୟ କରିବି।
+R027,Duration,When did it start?,यह कब शुरू हुआ?,ଏହା କେବେ ଆରମ୍ଭ ହେଲା?
+R028,Getting worse,I will examine you.,मैं आपकी जाँच करूँगा।,ମୁଁ ଆପଣଙ୍କୁ ପରୀକ୍ଷା କରିବି।
+R029,Getting better,That is good. Please continue to rest.,यह अच्छी बात है। कृपया आराम करते रहें।,ଏହା ଭଲ କଥା। ଦୟାକରି ଆରାମ କରୁଥାନ୍ତୁ।
+R030,Sudden onset,Did it start suddenly?,क्या यह अचानक शुरू हुआ?,ଏହା କଣ ହଠାତ୍ ଆରମ୍ଭ ହେଲା?
+R031,Slow onset,Did it start slowly?,क्या यह धीरे-धीरे शुरू हुआ?,ଏହା କଣ ଧୀରେ ଧୀରେ ଆରମ୍ଭ ହେଲା?
+R032,Taking medicine,Please show me the medicine you are taking.,"आप जो दवा ले रहे हैं, कृपया मुझे दिखाइए।","ଆପଣ ଯେଉଁ ଔଷଧ ଖାଉଛନ୍ତି, ଦୟାକରି ମୋତେ ଦେଖାନ୍ତୁ।"
+R033,Daily medicine,Do you take this medicine every day?,क्या आप यह दवा हर दिन लेते हैं?,ଆପଣ କଣ ଏହି ଔଷଧ ପ୍ରତିଦିନ ଖାଆନ୍ତି?
+R034,Need medicine,I will check which medicine you need.,मैं जाँच करूँगा कि आपको कौन सी दवा चाहिए।,ଆପଣଙ୍କୁ କେଉଁ ଔଷଧ ଦରକାର ମୁଁ ଯାଞ୍ଚ କରିବି।
+R035,Lost medicine,Tell me the name of the medicine.,मुझे दवा का नाम बताइए।,ମୋତେ ଔଷଧର ନାମ କୁହନ୍ତୁ।
+R036,Medicine allergy,What medicine are you allergic to?,आपको किस दवा से एलर्जी है?,ଆପଣଙ୍କୁ କେଉଁ ଔଷଧରେ ଆଲର୍ଜି ହୁଏ?
+R037,Food allergy,Which food are you allergic to?,आपको किस खाने की चीज़ से एलर्जी है?,ଆପଣଙ୍କୁ କେଉଁ ଖାଦ୍ୟରେ ଆଲର୍ଜି ହୁଏ?
+R038,Diabetes,Are you taking medicine for diabetes?,क्या आप मधुमेह की दवा लेते हैं?,ଆପଣ କଣ ମଧୁମେହ ପାଇଁ ଔଷଧ ଖାଆନ୍ତି?
+R039,High blood pressure,Do you take medicine for blood pressure?,क्या आप रक्तचाप की दवा लेते हैं?,ଆପଣ କଣ ରକ୍ତଚାପ ପାଇଁ ଔଷଧ ଖାଆନ୍ତି?
+R040,Previous problem,When did you have this problem before?,आपको यह समस्या पहले कब हुई थी?,ଆପଣଙ୍କୁ ଏହି ସମସ୍ୟା ପୂର୍ବରୁ କେବେ ହୋଇଥିଲା?
+R041,Previous operation,When did you have the operation?,आपका ऑपरेशन कब हुआ था?,ଆପଣଙ୍କ ଅପରେସନ କେବେ ହୋଇଥିଲା?
+R042,Pregnancy,How many months pregnant are you?,आपको कितने महीने की गर्भावस्था है?,ଆପଣଙ୍କ ଗର୍ଭାବସ୍ଥା କେତେ ମାସ ହେଲା?
+R043,Doctor,I am the doctor. Please tell me your problem.,मैं डॉक्टर हूँ। कृपया अपनी समस्या बताइए।,ମୁଁ ଡାକ୍ତର। ଦୟାକରି ଆପଣଙ୍କ ସମସ୍ୟା କୁହନ୍ତୁ।
+R044,Help,I am here to help you.,मैं आपकी मदद करने के लिए यहाँ हूँ।,ମୁଁ ଆପଣଙ୍କୁ ସାହାଯ୍ୟ କରିବା ପାଇଁ ଏଠାରେ ଅଛି।
+R045,Need doctor,I will call the doctor for you.,मैं आपके लिए डॉक्टर को बुलाऊँगा।,ମୁଁ ଆପଣଙ୍କ ପାଇଁ ଡାକ୍ତରଙ୍କୁ ଡାକିବି।
+R046,Call doctor,I will call the doctor now.,मैं अभी डॉक्टर को बुलाऊँगा।,ମୁଁ ବର୍ତ୍ତମାନ ଡାକ୍ତରଙ୍କୁ ଡାକିବି।
+R047,Water,Here is some water.,यह लीजिए पानी।,ନିଅନ୍ତୁ ପାଣି।
+R048,Ambulance,We are calling an ambulance.,हम एम्बुलेंस बुला रहे हैं।,ଆମେ ଆମ୍ବୁଲାନ୍ସ ଡାକୁଛୁ।
+R049,Bleeding,Please apply pressure here.,कृपया यहाँ दबाव डालें।,ଦୟାକରି ଏଠାରେ ଚାପ ଦିଅନ୍ତୁ।
+R050,Fainted,Are you feeling better now?,क्या अब आपको बेहतर महसूस हो रहा है?,ଆପଣ ବର୍ତ୍ତମାନ ଭଲ ଅନୁଭବ କରୁଛନ୍ତି କି?
+R051,Emergency,We will help you immediately.,हम तुरंत आपकी मदद करेंगे।,ଆମେ ତୁରନ୍ତ ଆପଣଙ୍କୁ ସାହାଯ୍ୟ କରିବୁ।
+R052,Hospital,We will take you to the hospital.,हम आपको अस्पताल ले जाएँगे।,ଆମେ ଆପଣଙ୍କୁ ହସ୍ପିଟାଲ ନେଇଯିବୁ।
+R053,General,Please sit here.,कृपया यहाँ बैठिए।,ଦୟାକରି ଏଠାରେ ବସନ୍ତୁ।
+R054,General,Please stand up.,कृपया खड़े हो जाइए।,ଦୟାକରି ଠିଆ ହୁଅନ୍ତୁ।
+R055,General,Please wait for a moment.,कृपया थोड़ी देर प्रतीक्षा करें।,ଦୟାକରି କିଛି ସମୟ ଅପେକ୍ଷା କରନ୍ତୁ।
+R056,General,Please show me your medical report.,कृपया अपनी मेडिकल रिपोर्ट दिखाइए।,ଦୟାକରି ଆପଣଙ୍କ ମେଡିକାଲ ରିପୋର୍ଟ ଦେଖାନ୍ତୁ।
+R057,Breathing,Please take a deep breath.,कृपया गहरी साँस लें।,ଦୟାକରି ଗଭୀର ନିଶ୍ୱାସ ନିଅନ୍ତୁ।
+R058,Examination,Please open your mouth.,कृपया अपना मुँह खोलिए।,ଦୟାକରି ଆପଣଙ୍କ ପାଟି ଖୋଲନ୍ତୁ।
+R059,Pain,Please point to the painful area.,कृपया दर्द वाली जगह की ओर इशारा करें।,ଦୟାକରି ବ୍ୟଥା ହେଉଥିବା ସ୍ଥାନକୁ ଦେଖାନ୍ତୁ।
+R060,Examination,I will examine you now.,मैं अभी आपकी जाँच करूँगा।,ମୁଁ ବର୍ତ୍ତମାନ ଆପଣଙ୍କୁ ପରୀକ୍ଷା କରିବି।
+R061,General,Please follow my instructions.,कृपया मेरे निर्देशों का पालन करें।,ଦୟାକରି ମୋ ନିର୍ଦ୍ଦେଶ ପାଳନ କରନ୍ତୁ।
+R062,General,Do you understand?,क्या आप समझ रहे हैं?,ଆପଣ ବୁଝିପାରୁଛନ୍ତି କି?
+R063,General,Do you need anything else?,क्या आपको और कुछ चाहिए?,ଆପଣଙ୍କୁ ଆଉ କିଛି ଦରକାର କି?
+R064,General,Thank you.,धन्यवाद।,ଧନ୍ୟବାଦ।

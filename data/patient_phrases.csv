@@ -1,0 +1,47 @@
+phrase_id,phrase_key,english,hindi
+P001,back_pain,I have back pain,मेरी पीठ में दर्द है
+P002,bleeding,I am bleeding,मुझे खून बह रहा है
+P003,body_pain,I have body pain,मेरे शरीर में दर्द है
+P004,breathing_difficulty,I have difficulty breathing,मुझे सांस लेने में कठिनाई हो रही है
+P005,call_for_help,Please call for help,कृपया मदद बुलाइए
+P006,cannot_breathe,I cannot breathe properly,मैं ठीक से सांस नहीं ले पा रहा हूँ
+P007,chest_pain,I have chest pain,मेरे सीने में दर्द है
+P008,cold,I have a cold,मुझे सर्दी है
+P009,constant_pain,The pain is constant,दर्द लगातार है
+P010,cough,I have a cough,मुझे खांसी है
+P011,diabetes,I have diabetes,मुझे मधुमेह है
+P012,diarrhea,I have diarrhea,मुझे दस्त हो रहे हैं
+P013,dizzy,I feel dizzy,मुझे चक्कर आ रहा है
+P014,emergency_help,I need emergency help,मुझे तुरंत मदद चाहिए
+P015,fainted,I fainted,मैं बेहोश हो गया था
+P016,fever,I have a fever,मुझे बुखार है
+P017,food_allergy,I am allergic to food,मुझे कुछ खाने की चीजों से एलर्जी है
+P018,getting_better,It is getting better,यह बेहतर हो रहा है
+P019,getting_worse,It is getting worse,यह और खराब हो रहा है
+P020,headache,I have a headache,मुझे सिरदर्द है
+P021,help,Please help me,कृपया मेरी मदद करें
+P022,high_blood_pressure,I have high blood pressure,मुझे उच्च रक्तचाप है
+P023,hurt,I have pain or hurt,मुझे दर्द हो रहा है
+P024,joint_pain,I have joint pain,मेरे जोड़ों में दर्द है
+P025,medicine,I need or take medicine,मुझे दवा चाहिए या मैं दवा ले रहा हूँ
+P026,neck_pain,I have neck pain,मेरी गर्दन में दर्द है
+P027,need_doctor,I need a doctor,मुझे डॉक्टर चाहिए
+P028,one_week,I have had this for a week,मुझे यह समस्या एक सप्ताह से है
+P029,pain,I have pain,मुझे दर्द है
+P030,past_problem,I had this problem before,मुझे पहले भी यह समस्या हुई है
+P031,pregnant,I am pregnant,मैं गर्भवती हूँ
+P032,runny_nose,I have a runny nose,मेरी नाक बह रही है
+P033,shivering,I am shivering,मुझे कंपकंपी हो रही है
+P034,sore_throat,I have a sore throat,मेरे गले में खराश है
+P035,started_slowly,It started slowly,यह धीरे-धीरे शुरू हुआ
+P036,started_suddenly,It started suddenly,यह अचानक शुरू हुआ
+P037,started_today,It started today,यह आज शुरू हुआ है
+P038,started_two_days_ago,It started two days ago,यह दो दिन पहले शुरू हुआ है
+P039,started_yesterday,It started yesterday,यह कल शुरू हुआ है
+P040,take_to_hospital,Please take me to the hospital,कृपया मुझे अस्पताल ले जाइए
+P041,tired,I feel tired,मैं थका हुआ हूँ
+P042,toothache,I have a toothache,मेरे दांत में दर्द है
+P043,very_sick,I feel very sick,मैं बहुत बीमार हूँ
+P044,vomiting,I am vomiting,मुझे उल्टी हो रही है
+P045,water,I need water,मुझे पानी चाहिए
+P046,weak,I feel weak,मुझे कमजोरी महसूस हो रही है
